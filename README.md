@@ -68,6 +68,13 @@ This project was created as part of my Python learning journey to practice combi
 
 I am currently building my Python fundamentals while working toward more practical projects in **Cybersecurity and Automation**.
 
+## 🎥 Demo
+
+A short video demonstrating the Student Management System and its main features.
+
+📹 Demo video:
+`demo/student-management-demo.mp4`
+
 ---
 
 ⭐ If you find this project useful, feel free to explore the code.
